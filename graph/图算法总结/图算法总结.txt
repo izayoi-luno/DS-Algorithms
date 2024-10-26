@@ -1,0 +1,31 @@
+基本图算法：
+dfs bfs 并查集 拓扑排序 
+
+操作：
+建图 有向图/树-无向图/树转换 记录visited减小搜索空间
+
+特殊图算法：
+（dfs类）tarjan算法 kosaraju算法
+（bfs类）prim算法 dijkstra算法
+（动态规划类）floyd-warshall算法
+
+（单源最短路径）bellman-ford算法 dijkstra算法
+（任意两点最短路径）floyd-warshall算法
+（最小生成树）kuruskal算法 prim算法
+（连通分量）tarjan算法 kosaraju算法
+
+
+问题：
+最短路径 所有路径 路径数量 
+可达性 连通分量个数 是否在同一个连通分量内 连通分量的size （双）连通分量的桥/割边 强连通分量
+节点度数 
+判环问题 
+矩阵型图的遍历
+电话本-账户合并问题
+课程表-项目管理问题
+
+综合性问题：
+和动态规划的综合 
+和树的综合
+dfs和字典树的综合
+从dfs到回溯
